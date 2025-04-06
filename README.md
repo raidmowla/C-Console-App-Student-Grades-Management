@@ -78,7 +78,7 @@ ET.generate_summary("2025-10-01");
 Raid Mowla  
 Email: dearraid@gmail.com  
 LinkedIn: https://www.linkedin.com/in/raid-mowla/  
-GitHub: [Your GitHub Username]
+GitHub: raidmowla
 
 ## License
 
